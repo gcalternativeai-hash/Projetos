@@ -23,7 +23,7 @@ export function Header() {
             <img
               src="/images/OnzyLogo.png"
               alt="Sua Logo"
-              className="h-24 sm:h-32 w-auto"
+              className="h-20 sm:h-12 w-auto"
             />
           </div>
 
