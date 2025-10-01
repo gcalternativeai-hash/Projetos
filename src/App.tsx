@@ -255,7 +255,7 @@ function MainApplication() {
                         href="mailto:seudelivery@gmail.com" 
                         className="hover:text-red-400 transition-colors"
                       >
-                        umamihamburgueria52@gmail.com
+                        seudelivery@gmail.com
                       </a>
                     </p>
                     <p>
