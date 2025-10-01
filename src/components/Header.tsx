@@ -21,7 +21,7 @@ export function Header() {
           {/* Logo */}
           <div className="flex items-center">
             <img
-              src="/imagens/OnzyLogo.png"
+              src="/images/OnzyLogo.png"
               alt="Sua Logo"
               className="h-24 sm:h-32 w-auto"
             />
