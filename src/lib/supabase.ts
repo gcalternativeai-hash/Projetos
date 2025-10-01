@@ -307,8 +307,8 @@ export async function buscarConfiguracoes(): Promise<{ success: boolean; data?: 
           deliveryFee: 3,
           freeDeliveryMinItems: 5,
           preparationTime: 30,
-          storeAddress: 'Rua dos Pastéis, 123 - São Paulo',
-          storeName: 'Empório do Pastel', // Valor padrão
+          storeAddress: 'Rua dos delivery, 123 - São Paulo',
+          storeName: 'Seu Delivery', // Valor padrão
           storePhone: '(11) 99999-9999', // Valor padrão
           whatsappNumber: '+55 73 9198-9629', // Valor padrão
           operatingHours: [ // Valores padrão para operatingHours
