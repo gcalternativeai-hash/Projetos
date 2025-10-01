@@ -252,7 +252,7 @@ function MainApplication() {
                     <p>
                       📧{' '}
                       <a 
-                        href="mailto:umamihamburgueria52@gmail.com" 
+                        href="mailto:seudelivery@gmail.com" 
                         className="hover:text-red-400 transition-colors"
                       >
                         umamihamburgueria52@gmail.com
