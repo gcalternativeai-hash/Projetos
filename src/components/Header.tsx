@@ -22,7 +22,7 @@ export function Header() {
           <div className="flex items-center">
             <img
               src="/imagens/logocompleta.png"
-              alt="Logo Umami"
+              alt="Sua Logo"
               className="h-24 sm:h-32 w-auto"
             />
           </div>
